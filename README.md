@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# My name is Vivian Munguía 
+
+🌱 I’m currently learning on Platzi, I'm taking courses to become a web developer.
+
