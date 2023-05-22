@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 # My name is Vivian Munguía 
 
-🌱 I’m currently learning on Platzi, I'm taking courses to become a web developer.
+🌱 I’m currently taking courses to become a web developer. <br>
+📖 I have worked with C# and Xamarin.
 
